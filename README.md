@@ -1,2 +1,2 @@
 # WebFront-Libraries
-This is a personal front-end material library
+此代码库为javaWeb前端样例集（Code + Picture + Sample Doc）.
